@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
+  m_Name: S1-1-1
+  m_EditorClassIdentifier: 
+  storyText: 'S1-1-1
+
+
+    It''s 6:30 am.  Your alarm is going off...again...for
+    a third time.
+
+
+    Do you:
+
+    1. Snooze?
+
+    2. Smash the alarm clock?
+
+    3.
+    Throw the alarm clock?
+
+    4. When would now be a good time to get out of bed?'
+  nextState:
+  - {fileID: 11400000, guid: 64342b815659a6c01a2a433012cff450, type: 2}
+  - {fileID: 11400000, guid: 5449273944e7091b5a837c7f14edf4c2, type: 2}
+  - {fileID: 11400000, guid: 60c4b95fec299f25b9f9b32940d74447, type: 2}
+  - {fileID: 11400000, guid: 2e6da1069539ca94daa992c6c53b9313, type: 2}

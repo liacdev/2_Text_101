@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
+  m_Name: Stage 7
+  m_EditorClassIdentifier: 
+  storyText: "Stage 7\n\nIt's 12:00 pm.  You're at work in the afternoon.\n\nDo you?\n1.
+    \n2. \n3. \n4. "
+  nextState:
+  - {fileID: 11400000, guid: e81b732aed341f7289cb1229f1d38705, type: 2}
+  - {fileID: 11400000, guid: 4ac9895f173bd2ee5a350565cd75447d, type: 2}
+  - {fileID: 11400000, guid: edc33fb339f12e9458d5f9524a808ec2, type: 2}
+  - {fileID: 11400000, guid: d03b0156ad44b5de1abc5019ce6632b9, type: 2}

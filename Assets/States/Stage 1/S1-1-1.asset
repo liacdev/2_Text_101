@@ -15,20 +15,24 @@ MonoBehaviour:
   storyText: 'S1-1-1
 
 
-    It''s 6:30 am.  Your alarm is going off...again...for
-    a third time.
+    You hit the snooze button again.
+
+
+    It''s 6:30 am. 
+    Your alarm is going off...again...for a third time.
 
 
     Do you:
 
     1. Snooze?
 
-    2. Smash the alarm clock?
+    2.
+    Smash the alarm clock?
 
-    3.
-    Throw the alarm clock?
+    3. Throw the alarm clock?
 
-    4. When would now be a good time to get out of bed?'
+    4. When would now
+    be a good time to get out of bed?'
   nextState:
   - {fileID: 11400000, guid: 64342b815659a6c01a2a433012cff450, type: 2}
   - {fileID: 11400000, guid: 5449273944e7091b5a837c7f14edf4c2, type: 2}

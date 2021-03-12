@@ -15,20 +15,23 @@ MonoBehaviour:
   storyText: 'S1-1
 
 
-    It''s 6:00 am.  Your alarm is going off...again.
+    You hit the snooze button.
 
 
-    Do
-    you:
+    It''s 6:00 am.  Your alarm
+    is going off...again.
+
+
+    Do you:
 
     1. Snooze?
 
     2. Smash the alarm clock?
 
-    3. Throw the alarm clock?
+    3.
+    Throw the alarm clock?
 
-    4.
-    Get out of bed yet??'
+    4. Get out of bed yet??'
   nextState:
   - {fileID: 11400000, guid: 656f072053dc43900a71ac8d38edd9c9, type: 2}
   - {fileID: 11400000, guid: 656f072053dc43900a71ac8d38edd9c9, type: 2}

@@ -10,8 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
-  m_Name: S-1-4
+  m_Name: S1-3-3
   m_EditorClassIdentifier: 
-  storyText: S-1-4
+  storyText: 'S1-3-3
+
+
+    You eat something for breakfast.
+
+
+'
   nextState:
   - {fileID: 11400000, guid: 5a5610926e7207573936256b90bdfaeb, type: 2}

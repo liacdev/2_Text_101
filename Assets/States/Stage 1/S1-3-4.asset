@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
+  m_Name: S1-3-4
+  m_EditorClassIdentifier: 
+  storyText: 'S1-3-4
+
+
+    You answer the front door.
+
+
+'
+  nextState:
+  - {fileID: 11400000, guid: 5a5610926e7207573936256b90bdfaeb, type: 2}

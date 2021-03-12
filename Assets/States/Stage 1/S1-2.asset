@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
   m_Name: S1-2
   m_EditorClassIdentifier: 
-  storyText: S1-2
+  storyText: "S1-2\n\nYou smash the alarm clock and go back to sleep.\n\nYou overslept.
+    You didn't shower.  You didn't eat breakfast.  You didn't pack a lunch. You'll
+    be late for work.  \n\nStage 1 result:\nSmelly, Wearing pajamas, Upset stomach,
+    No lunch, 3 Demerits for being late\n\n1. Go to work."
   nextState:
-  - {fileID: 11400000, guid: 5a5610926e7207573936256b90bdfaeb, type: 2}
+  - {fileID: 11400000, guid: 9d4aff578dacb685f804fd74441b3609, type: 2}

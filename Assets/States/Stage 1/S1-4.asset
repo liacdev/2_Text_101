@@ -10,32 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 346920ffe802a3112b0e68033dbb05c0, type: 3}
-  m_Name: S1-3
+  m_Name: S1-4
   m_EditorClassIdentifier: 
-  storyText: 'S1-3
+  storyText: 'S-1-4
 
 
-    You throw the alarm clock through the window.  It is loud
-    enough to wake up the neighbors.  You hear a knocking sound coming from the living
-    room.
+    Feeling well rested and completely refreshed, you decide
+    to get out of bed.
 
 
     Do you?
 
+    1. Take a shower?
 
-    1. Go back to sleep?
+    2. Select an outfit
+    to wear?
 
-    2. Take a shower?
+    3. Eat something for breakfast?
 
-    3.
-    Eat something?
-
-    4. Answer the front door?
+    4. Pack a lunch?
 
 
 '
   nextState:
-  - {fileID: 11400000, guid: 7de8e4c2871f9bb0585a7202c5e5149d, type: 2}
   - {fileID: 11400000, guid: 0b3916fd8dfd8fd718e57cc7262eddfb, type: 2}
+  - {fileID: 11400000, guid: 5a5610926e7207573936256b90bdfaeb, type: 2}
   - {fileID: 11400000, guid: adc5f2ed77ea3bef19d95f7fc128d49f, type: 2}
-  - {fileID: 11400000, guid: df8478b3dd9991ef38d17a98452a72a6, type: 2}
+  - {fileID: 11400000, guid: 5a5610926e7207573936256b90bdfaeb, type: 2}
